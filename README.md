@@ -3,16 +3,12 @@
 
 [![CircleCI](https://circleci.com/gh/tookit/vue-material-admin/tree/dev.svg?style=svg)](https://circleci.com/gh/tookit/vue-material-admin/tree/dev)
 
-English | [简体中文](./README.zh-CN.md) 
-
 
 ## Introduction
 Vue Material Admin Template is a [Vue](https://vuejs.org/index.html/) Based Material Design Admin Template.
 And use [Vuetifyjs](https://vuetifyjs.com/) as base framework.
 Vuetify is Awesome.
 
-## Discrod Change
-[Discrod channel](https://discord.gg/7f6TVx)
 
 ## Demo
 - [Vuetify2 version](https://v2.isocked.com/#/auth/login)
@@ -98,7 +94,3 @@ If you find this project useful, you can buy author a glass of juice :tropical_d
 [Buy me a coffee](https://www.buymeacoffee.com/tookit)
 
 <a href="https://www.buymeacoffee.com/tookit" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-## License
-
-[MIT](https://github.com/tookit/vue-material-admin/blob/master/LICENSE)
